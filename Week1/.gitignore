@@ -1,0 +1,5 @@
+# ignore file for Zephy's Insight Leetcode Week1 problems
+./.DS_Store
+./Problem1/.DS_Store
+./Problem2/.DS_Store
+./Problem3/.DS_Store
